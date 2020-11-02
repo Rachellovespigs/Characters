@@ -54,7 +54,7 @@ li a:hover {
 .Body button {
   border: 4px 3px solid black;
   color: black;
-  font-family: sans-serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-size: 24px;
   padding: 5px;
   text-decoration: none;
@@ -71,4 +71,14 @@ li a:hover {
 
 .Body {
   text-align: center;
+  width: 70%;
+  margin-left: 223px;
+}
+
+.Body h1 {
+  font-family: cursive;
+}
+
+.Body h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
