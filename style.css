@@ -1,0 +1,74 @@
+body {
+  background: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  font-size: 14px;
+  font-family: fantasy;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-left: 296px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  color: white;
+  border-bottom: 2px solid White;
+}
+
+.Home {
+  text-align: center;
+  background-color: pink;
+  padding-top: 0px;
+}
+
+.Home h1 {
+  font-family: cursive;
+  color: white;
+}
+
+.Characters img {
+  width: 23%;
+  margin: 40px;
+  box-shadow: 3px 4px 3px black;
+}
+
+.Characters {
+  text-align: center;
+}
+
+.Body button {
+  border: 4px 3px solid black;
+  color: black;
+  font-family: sans-serif;
+  font-size: 24px;
+  padding: 5px;
+  text-decoration: none;
+  background-color: white;
+  border-radius: 3px;
+  list-style-type: none;
+}
+
+.Body button:hover {
+  border: 4px 3px solid black;
+  color: white;
+  background-color: black;
+}
+
+.Body {
+  text-align: center;
+}
