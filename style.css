@@ -92,3 +92,69 @@ h2 {
 iframe {
   padding-top: 30px;
 }
+
+.Quick {
+  display: flex;
+}
+
+.Quick img {
+  width: 50%;
+}
+
+.Words {
+  text-align: center;
+}
+
+.Words h1 {
+  font-size: 54px;
+  font-family: cursive;
+}
+
+.Words h2 {
+  font-size: 34px;
+  font-family: cursive;
+}
+
+.Words p {
+  font-size: 22px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.Info {
+  padding-top: 5px;
+}
+
+.Words button {
+  transition: background-color 0.4s linear;
+  border: 4px 3px 4px solid black;
+  background-color: rgba(255, 255, 255, 0.651);
+  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.Words button:hover {
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+}
+
+.bottom button {
+  transition: background-color 0.4s linear;
+  border: 4px 3px 4px solid black;
+  background-color: rgba(255, 255, 255, 0.651);
+  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 50px;
+  text-decoration: none;
+  border-radius: 10px;
+  margin-left: 523px;
+}
+
+.bottom button:hover {
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+}
