@@ -158,3 +158,29 @@ iframe {
   color: white;
   border: 2px solid white;
 }
+
+@media (max-width: 500px) {
+  nav ul {
+    text-align: center;
+  }
+}
+
+.Set1 {
+  text-align: center;
+  padding-left: 20px;
+}
+
+.Set2 {
+  text-align: center;
+  padding-left: 20px;
+}
+
+.Set3 {
+  text-align: center;
+  padding-left: 20px;
+}
+
+.Set4 {
+  text-align: center;
+  padding-left: 20px;
+}
